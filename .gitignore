@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+venv/
+.env
+
+# Kivy / Buildozer
+*.kv.py # Kivy language compiled files (if any)
+bin/
+buildozer_env/
+.buildozer/
+*.apk
+*.img
+
+# Project specific
+progress.json
+1281.png
+
+# OS-specific files
+.DS_Store
+Thumbs.db 
